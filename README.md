@@ -16,5 +16,8 @@ The database is still a work in progress, because there are about 3000+ people, 
 ## How can I contribute?
 If you like to help out with the website, you can ask to become a member of this GitHub group. Out of safety for the developers of the website, there is currently no way to directly contribute to the website without being a member. If you like to help out with the database, please go to the page of the database [here](https://github.com/ProDeoProductions/ProDeoDatabase) and read how you can help out.
 
-## Becoming a member
-If you want to become a member, please send an email to ProDeoProductions2u@gmail.com to explain how and why you would like to help. Some knowledge of programming is handy to have, but even just having someone to discuss things with is already welcome.
+If you want to become a team member, please send an email to ProDeoProductions2u@gmail.com to explain why you'd like to be a part of the team and you can help. Some knowledge of programming is handy to have, but even just having someone to discuss things with is already welcome.
+
+## Wiki
+If you have more questions, check out the [ProDeo Website Wiki](https://github.com/ProDeoProductions/ProDeoWebsite/wiki). It will go more into depth about the why and the how of this project. If your question still isn't answered, feel free to send an email or reach out to me in another way!
+
