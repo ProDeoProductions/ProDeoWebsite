@@ -35,7 +35,7 @@ function setMapItems (map) {
     g_Map = map;
     
     var parent = {
-        id: map.id,
+        id: parseInt(map.id, 10),
         name: map.name,
         meaning_name: map.hasOwnProperty('meaning_name') ? map.meaning_name : null,
         descr: map.hasOwnProperty('descr') ? map.descr : null,
@@ -98,7 +98,7 @@ function setSubMapItems(id) {
     var ancestor = getMapItem(id);
     
     var parent = {
-        id: ancestor.id,
+        id: parseInt(ancestor.id, 10),
         name: ancestor.name,
         meaning_name: ancestor.hasOwnProperty('meaning_name') ? ancestor.meaning_name : null,
         descr: ancestor.hasOwnProperty('descr') ? ancestor.descr : null,
